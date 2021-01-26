@@ -1,0 +1,14 @@
+https://repl.it/@VaruniPandey/guessthenumber?embed=1&output=1
+
+
+https://repl.it/@VaruniPandey/hangman?embed=1&output=1
+
+https://repl.it/@VaruniPandey/madlib?embed=1&output=1
+
+https://repl.it/@VaruniPandey/minesweeper?embed=1&output=1
+
+https://repl.it/@VaruniPandey/rockpaperscissor?embed=1&output=1
+
+https://repl.it/@VaruniPandey/searchcomparison?embed=1&output=1
+
+https://repl.it/@VaruniPandey/tictactoe?embed=1&output=1
